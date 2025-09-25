@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Generator",
+  "description": "A sleek and modern web application that leverages the Gemini API to generate stunning images from textual descriptions. Users can input detailed prompts and watch their creative visions come to life.",
+  "requestFramePermissions": []
+}
